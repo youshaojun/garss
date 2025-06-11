@@ -1079,32 +1079,7 @@
             "description": "深度解读游戏",
             "title": "游戏葡萄",
             "xmlUrl": "https://rsshub.v2fy.com/gamegrape/13"
-        },
-        {
-            "description": "有品格的数字古籍图书馆",
-            "title": "书格",
-            "xmlUrl": "https://www.shuge.org/feed/"
-        },
-        {
-            "description": "为静心阅读而生",
-            "title": "书伴",
-            "xmlUrl": "https://feeds.feedburner.com/bookfere"
-        },
-        {
-            "description": "海量书单阅读分享者",
-            "title": "kindle吧",
-            "xmlUrl": "https://www.kindle8.cc/feed"
-        },
-        {
-            "description": "限时免费清单",
-            "title": "起点中文网",
-            "xmlUrl": "https://rsshub.v2fy.com/qidian/free"
-        },
-        {
-            "description": "蓝光无损电影",
-            "title": "4K影视屋",
-            "xmlUrl": "https://rsshub.v2fy.com/telegram/channel/dianying4K"
-        },
+        }
         {
             "description": "程序员编程笑话",
             "title": "编程笑话",
@@ -1129,12 +1104,7 @@
             "description": "分享资源完成阿里云盘任务，收获精品资源保存到不限速网盘",
             "title": "阿里云盘资源分享",
             "xmlUrl": "https://rsshub.v2fy.com/telegram/channel/YunPanPan"
-        },
-        {
-            "description": "资源共享-软件-电影-纪录片-科学上网",
-            "title": "Google Drive",
-            "xmlUrl": "https://rsshub.v2fy.com/telegram/channel/YunPanPan"
-        },
+        }
         {
             "description": "扫地僧树洞",
             "title": "扫地僧笔记",
@@ -1144,16 +1114,6 @@
             "description": "树莓派家用云服务器交流",
             "title": "树莓派家用云服务器",
             "xmlUrl": "https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi"
-        },
-        {
-            "description": "美女图片",
-            "title": "快乐星球",
-            "xmlUrl": "https://rsshub.v2fy.com/telegram/channel/botmzt"
-        },
-        {
-            "description": "不定期推送 IT 相关资讯",
-            "title": "Newlearnerの自留地",
-            "xmlUrl": "https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel"
         }
     ]
 }
