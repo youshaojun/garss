@@ -34,7 +34,7 @@ jobs:
         run: |
           git diff
           git config --global user.email "youshaojunde@163.com"
-          git config --global user.name "youshaojun"
+          git config --global user.name "youshaojunde@163.com"
           git add README.md
           git add docs
           git commit -m "Github Action auto Updated"
