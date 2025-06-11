@@ -219,7 +219,6 @@ def cp_media_to_docs():
 def get_email_list():
     email_list = []
     with open(os.path.join(os.getcwd(),"tasks.json"),'r') as load_f:
-        print("====load_f==>",load_f)
         load_dic = json.load(load_f)
         for task in load_dic["tasks"]:
             email_list.append(task["email"])
