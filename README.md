@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-08-26 06:19:09)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-08-27 10:47:14)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟4个小蛋糕🍰(文章) 生产时间 2026-08-26 06:19:09 保质期24小时</h2>
+<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-08-27 10:47:14 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://xclient.info/s/tangrid.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Tangrid 1.5.10 全能桌面窗口管理与多屏效率工具 | 第1篇</a></div><div style='line-height:3;' ><a href='https://xclient.info/s/things.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Things 3.23.1 一款优秀的GTD任务管理工具 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://xclient.info/s/acorn.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Acorn 8.6.2 优秀的轻量级图形处理工具 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.appinn.com/krokiet/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 电脑用久了，到底会留下多少没用的东西？ | 第4篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://free.apprcn.com/wise-video-converter-pro-6/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Wise Video Converter Pro - 视频转换软件[Windows][$29.95→0] | 第1篇</a></div>
 
 <邮件内容区结束
 
@@ -29,12 +29,12 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Tangrid 1.5.10 全能桌面窗口管理与多屏效率工具 🌈 2026-08-25](https://xclient.info/s/tangrid.html)<br/>[‣ Things 3.23.1 一款优秀的GTD任务管理工具 🌈 2026-08-25](https://xclient.info/s/things.html) | [订阅地址](https://xclient.info/feed) | 
+| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ OnDevice OCR Pro 3.0 离线企业级 OCR 文本识别与文档检索工具 \| 2026-08-26](https://xclient.info/s/ondevice-ocr.html)<br/>[‣ MoveMatic 2.1.0 产品演示与动效设计工具 \| 2026-08-26](https://xclient.info/s/movematic.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 电脑用久了，到底会留下多少没用的东西？ 🌈 2026-08-25](https://www.appinn.com/krokiet/)<br/>[‣ 发现频道：10款大家发现的好评软件\[2026年第34期\] 🌈 2026-08-25](https://www.appinn.com/faxian-top10-2634/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ PowerToys 0.101 发布：Windows 向 macOS 看齐，新增同应用多窗口间快速切换 \| 2026-08-26](https://www.appinn.com/powertoys-0-101/)<br/>[‣ 电脑用久了，到底会留下多少没用的东西？ \| 2026-08-26](https://www.appinn.com/krokiet/) | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://masuit.com) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 免费获取游戏 Linda & Joan Prologue: “Four Months Earlier”\[Windows、macOS\]\[$3→0\] \| 2026-08-24](https://free.apprcn.com/limited-time-get-game-linda-joan-prologue-four-months-earlier-for-free/)<br/>[‣ 限时免费获取游戏 Lord of Chaos\[Windows\]\[$3.99→0\] \| 2026-08-24](https://free.apprcn.com/limited-time-get-game-lord-of-chaos-for-free-2/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ Wise Video Converter Pro - 视频转换软件\[Windows\]\[$29.95→0\] 🌈 2026-08-27](https://free.apprcn.com/wise-video-converter-pro-6/)<br/>[‣ MobiKin Doctor for Android – 手机数据恢复软件\[1年授权\]\[Windows\]\[$49.95→0\] 🌈 2026-08-27](https://free.apprcn.com/mobikin-doctor-for-android-12/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 409 期）：程序员的职业未来 \| 2026-08-20](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)<br/>[‣ 科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识 \| 2026-08-20](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
