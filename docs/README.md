@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-09-17 08:00:09)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-09-18 07:50:19)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-09-17 08:00:09 保质期24小时</h2>
+<h2>新蒸熟3个小蛋糕🍰(文章) 生产时间 2026-09-18 07:50:19 保质期24小时</h2>
 
-
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.appinn.com/cloudflare-ai-gateway-union-alpha/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 如何通过 Cloudflare 免费使用神秘模型 Union Alpha | 第1篇</a></div><div style='line-height:3;' ><a href='https://free.apprcn.com/limited-time-get-epic-game-mindcop-for-free/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 限时免费获取 Epic 游戏 Mindcop 心灵警探[Windows][¥60→0] | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://free.apprcn.com/coolmuster-iphone-backup-extractor-16/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Coolmuster iPhone Backup Extractor - iPhone 数据备份导出恢复软件[1年授权][Windows][$39.95→0] | 第3篇</a></div>
 
 <邮件内容区结束
 
@@ -32,9 +32,9 @@
 | <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Things 3.24.0 一款优秀的GTD任务管理工具 \| 2026-09-15](https://xclient.info/s/things.html)<br/>[‣ System Dashboard Pro 4.3.1 系统监测 \| 2026-09-15](https://xclient.info/s/system-dashboard-pro.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ HiDNS – 统一管理阿里云、DNSPod、Cloudflare 等 22+ 平台的域名 DNS 解析 \| 2026-09-16](https://www.appinn.com/hidns/)<br/>[‣ 孩子手机玩太久怎么办？iOS 27 带来更强的儿童安全与家长控制 \| 2026-09-16](https://www.appinn.com/ios-27-child-safety-parental-controls/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 如何通过 Cloudflare 免费使用神秘模型 Union Alpha 🌈 2026-09-17](https://www.appinn.com/cloudflare-ai-gateway-union-alpha/)<br/>[‣ HiDNS – 统一管理阿里云、DNSPod、Cloudflare 等 22+ 平台的域名 DNS 解析 🌈 2026-09-17](https://www.appinn.com/hidns/) | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://masuit.com) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ iReaShare Phone Transfer - 手机文件传输工具\[Windows\]\[$29.95→0\] \| 2026-09-16](https://free.apprcn.com/ireashare-phone-transfer-3/)<br/>[‣ 限时免费获取字体 Lotu Hero\[Windows、macOS\] \| 2026-09-16](https://free.apprcn.com/limited-time-get-lotu-hero-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取 Epic 游戏 Mindcop 心灵警探\[Windows\]\[¥60→0\] 🌈 2026-09-17](https://free.apprcn.com/limited-time-get-epic-game-mindcop-for-free/)<br/>[‣ Coolmuster iPhone Backup Extractor - iPhone 数据备份导出恢复软件\[1年授权\]\[Windows\]\[$39.95→0\] 🌈 2026-09-17](https://free.apprcn.com/coolmuster-iphone-backup-extractor-16/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR \| 2026-09-11](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)<br/>[‣ 科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影 \| 2026-09-11](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
