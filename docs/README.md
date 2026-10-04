@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-03 08:52:16)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-04 08:18:39)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,7 +17,7 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-10-03 08:52:16 保质期24小时</h2>
+<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-10-04 08:18:39 保质期24小时</h2>
 
 
 
@@ -29,12 +29,12 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ 4K Video Downloader 26.3.5 下载高品质的YouTube视频 \| 2026-10-01](https://xclient.info/s/4k-video-downloader.html)<br/>[‣ 4K YouTube to MP3 26.3.5 在线视频提取音乐 \| 2026-10-01](https://xclient.info/s/4k-youtube-to-mp3.html) | [订阅地址](https://xclient.info/feed) | 
+| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ SimpleMind 2.10.2 小巧的思维导图工具 \| 2026-10-03](https://xclient.info/s/simplemind.html)<br/>[‣ BuhoLaunchpad 2.0.0 重塑经典风格的应用启动器 \| 2026-10-03](https://xclient.info/s/buholaunchpad.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ Tailscale 开源 Tailcat：快速让两台设备临时直连，即用即抛的内网穿透工具 \| 2026-10-02](https://www.appinn.com/tailscale-tailcat/)<br/>[‣ Windows 11 原生 Linux 容器正式发布，不再需要 Docker Desktop \| 2026-10-02](https://www.appinn.com/windows-wsl-container-generally-available/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 本周赛博领鸡蛋（10.2~10.8）：《深埋之星》《网络奇兵2：25周年重制版》《桥梁建造师工作室》 \| 2026-10-03](https://www.appinn.com/eggs-26102/)<br/>[‣ Search – 仅 6MB，开源、极简 Mac 浏览器，支持 Chrome 扩展 \| 2026-10-03](https://www.appinn.com/officecommun-serach-browser/) | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://masuit.com) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取音频插件 Kubbe 和 Kaset\[Windows、macOS\]\[$15→0\] \| 2026-10-02](https://free.apprcn.com/limited-time-get-kubbe-and-kaset-for-free/)<br/>[‣ 限时免费获取电子书 Python & AI For Dummies\[$34.99→0\] \| 2026-10-02](https://free.apprcn.com/limited-time-get-ebook-python-ai-for-dummies-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取游戏 Gnumz 2: Arcane Power\[Windows\]\[$9.99→0\] \| 2026-10-03](https://free.apprcn.com/limited-time-get-game-gnumz-2-arcane-power-for-free/)<br/>[‣ Wise Care 365 Pro – 系统清理优化软件\[终身不可更新授权\]\[Windows\]\[$29.95→0\] \| 2026-10-03](https://free.apprcn.com/wise-care-365-pro-122/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 413 期）：再见了，React Native \| 2026-09-18](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)<br/>[‣ 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR \| 2026-09-18](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
