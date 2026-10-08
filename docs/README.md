@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-07 09:10:19)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-08 09:29:10)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-10-07 09:10:19 保质期24小时</h2>
+<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-10-08 09:29:10 保质期24小时</h2>
 
-
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p86' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 晚高峰25W的4K机场！桔子云，速鹰666的分机场，高速全隧道IPLC超大国际机场，可白嫖！ | 第1篇</a></div>
 
 <邮件内容区结束
 
@@ -32,9 +32,9 @@
 | <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Magic Disk Cleaner 5.5.1 临时文件清理 \| 2026-10-06](https://xclient.info/s/magic-disk-cleaner.html)<br/>[‣ PullTube 1.8.6.41 在线视频下载工具 \| 2026-10-06](https://xclient.info/s/pulltube.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ Windows 11 终于认识波浪线 ~ 了：和 Linux、macoS 一样直达用户目录 \| 2026-10-06](https://www.appinn.com/windows-11-tilde-user-folder/)<br/>[‣ 简单优雅的开源截图软件 Snow Shot（社区驱动） \| 2026-10-06](https://meta.appinn.net/t/topic/71367) | [订阅地址](https://www.appinn.com/feed/) | 
-| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://masuit.com) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取游戏 Rush Rush Red Shoes\[Windows\]\[$0.99→0\] \| 2026-10-06](https://free.apprcn.com/limited-time-get-game-rush-rush-red-shoes-for-free/)<br/>[‣ 限时免费获取字体 Holiday Farmhouse\[Windows、macOS\]\[$10→0\] \| 2026-10-06](https://free.apprcn.com/limited-time-get-holiday-farmhouse-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ RemoveMacAI – 精简 macOS 27，关闭 Apple 智能，删除模型文件，释放 10+GB 磁盘空间 \| 2026-10-07](https://www.appinn.com/removemacai/)<br/>[‣ 这 39 款 Windows 软件，你用过多少？ \| 2026-10-07](https://www.appinn.com/39-windows-software-you-have-used/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ 安卓垃圾清理工具——清浊2.2学习版 \| 2026-10-06](https://masuit.net/1335)<br/>[‣ Windows11经典开始菜单——StartAllBack(StartIsBack++) v3.9.27学习版 \| 2026-10-06](https://masuit.net/1751) | [订阅地址](https://masuit.com/rss) |
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取字体 Aureline Castelo - Elegant Serif\[Windows、macOS\] \| 2026-10-07](https://free.apprcn.com/limited-time-get-aureline-castelo-elegant-serif-for-free/)<br/>[‣ AllMyNotes Organizer – 数据信息管理工具\[Windows\]\[$34→0\] \| 2026-10-07](https://free.apprcn.com/allmynotes-organizer-52/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 413 期）：再见了，React Native \| 2026-09-18](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)<br/>[‣ 科技爱好者周刊（第 412 期）：禁止 issue，只用 PR \| 2026-09-18](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
