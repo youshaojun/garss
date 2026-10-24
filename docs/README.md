@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-23 08:19:48)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-24 08:10:15)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟2个小蛋糕🍰(文章) 生产时间 2026-10-23 08:19:48 保质期24小时</h2>
+<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-10-24 08:10:15 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p532' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ YToo歪兔机场——老牌专线中转机场国际网络加速服务 | 第1篇</a></div><div style='line-height:3;' ><a href='http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 科技爱好者周刊（第 416 期）：编程已经面目全非 | 第2篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p530' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 竹知了 · 一转就哇哇叫 | 在线增智慧 | 第1篇</a></div>
 
 <邮件内容区结束
 
@@ -32,12 +32,12 @@
 | <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ SnapGene 8.2.3 强大的分子生物学软件 \| 2026-10-22](https://xclient.info/s/snapgene.html)<br/>[‣ PCalc 4.12 全功能科学计算器 \| 2026-10-22](https://xclient.info/s/pcalc.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 多个 Linux 内核高危漏洞疑似被误公开：最高评分 9.0，部分尚未修复 \| 2026-10-22](https://www.appinn.com/linux-kernel-vulnerabilities-accidentally-disclosed/)<br/>[‣ CloudCone 再次开启50%赠送：充值 5.1 美元，送 2.55 美元 \| 2026-10-22](https://www.appinn.com/cloudcone-50p-26/) | [订阅地址](https://www.appinn.com/feed/) | 
-| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ 本站开源项目——媒鉴查重MediaTrace - 本地跨媒体互搜与查重引擎7.0，基于.NET 10 Desktop \| 2026-10-21](https://masuit.net/2184)<br/>[‣ 傲梅分区助手AOMEI Partition Assistant 10.12.2中文绿色版 \| 2026-10-21](https://masuit.net/1443) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取 Epic 游戏 Home\[iOS、Android\]\[¥9→0\] \| 2026-10-22](https://free.apprcn.com/limited-time-get-epic-game-home-for-free-2/)<br/>[‣ 限时免费获取 Epic 游戏 Home\[Windows\]\[¥15→0\] \| 2026-10-22](https://free.apprcn.com/limited-time-get-epic-game-home-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 赛博领鸡蛋：智谱 ZCode 1024 程序员节免费送 5 亿 Tokens｜现在领，周末用。 \| 2026-10-23](https://www.appinn.com/zcode-1024-free-500-million-tokens/)<br/>[‣ Strata 0.2.3 更新：聊天太长？现在会自动压缩了 \| 2026-10-23](https://www.appinn.com/strata-0-2-3/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ 虚拟磁盘工具 SoftPerfect RAM Disk v26.10中文注册版 \| 2026-10-22](https://masuit.net/1937)<br/>[‣ PDF-XChangeEditorPlus 11.1.1简体中文学习版 \| 2026-10-22](https://masuit.net/1484) | [订阅地址](https://masuit.com/rss) |
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取 Steam 游戏 Radiant Exodus\[Windows\] \| 2026-10-23](https://free.apprcn.com/limited-time-get-steam-game-radiant-exodus-for-free/)<br/>[‣ Ashampoo Face Blur - 照片脸部自动识别遮罩\[终身授权\]\[Windows\]\[$22→0\] \| 2026-10-23](https://free.apprcn.com/ashampoo-face-blur-6/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
-| <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 416 期）：编程已经面目全非 🌈 2026-10-23](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)<br/>[‣ 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》 🌈 2026-10-23](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
+| <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 416 期）：编程已经面目全非 \| 2026-10-23](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)<br/>[‣ 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》 \| 2026-10-23](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
 | <div id="B002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B002.png" width="30px" style="width:30px;height: auto;"/><br><span>B002</span></div> | 当我在扯淡 | 王垠的博客，观点奇妙有趣 |  [‣ 从 wordpress 转移到 substack \| 2022-11-20](https://yinwang1.wordpress.com/2022/11/20/%e4%bb%8e-wordpress-%e8%bd%ac%e7%a7%bb%e5%88%b0-substack/)<br/>[‣ 计算机科学进阶班招生 \| 2022-11-20](https://yinwang1.wordpress.com/2022/02/22/advanced-cs-course/) | [订阅地址](https://yinwang1.wordpress.com/feed/) |
 
 ## 批量导入所有RSS订阅
