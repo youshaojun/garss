@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-28 08:52:20)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-10-29 09:28:50)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-10-28 08:52:20 保质期24小时</h2>
+<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-10-29 09:28:50 保质期24小时</h2>
 
-
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p173' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 知乎热门：如何评价苏州思杰马克丁软件公司？ | 第1篇</a></div>
 
 <邮件内容区结束
 
@@ -29,12 +29,12 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Smooze Pro 2.3.35 鼠标滚动增强软件 \| 2026-10-27](https://xclient.info/s/smooze-pro.html)<br/>[‣ APU Software Dynamics Optimizer 6.0.1 智能音频动态优化与响度控制工具 \| 2026-10-27](https://xclient.info/s/apu-software-dynamics-optimizer.html) | [订阅地址](https://xclient.info/feed) | 
+| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ WiFi Explorer Pro 3.10.6 强大的WiFi无线扫描和管理工具 \| 2026-10-28](https://xclient.info/s/wifi-explorer-pro.html)<br/>[‣ VectorStyler 1.3.031 全功能无损矢量插画与参数化图形设计工作台 \| 2026-10-28](https://xclient.info/s/vectorstyler.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 微软身份验证器 Authenticator 曝高危漏洞：恶意 App 无需权限就能窃取账户令牌 \| 2026-10-27](https://www.appinn.com/microsoft-authenticator-android-cve-2026-80097/)<br/>[‣ Mac mini M6 钙版，国补后价格：¥4902｜最佳 AI Agent 运行硬件 \| 2026-10-27](https://www.appinn.com/mac-mini-m6-national-subsidy-price-4902/) | [订阅地址](https://www.appinn.com/feed/) | 
-| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ EdgeX v2.1.2——Xposed Edge pro复活版，重新映射手势，按键，电话状态，定时任务，shell脚本的Xposed模块 \| 2026-10-25](https://masuit.net/2316) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ EaseUS Partition Master Professional – 易我分区管理大师\[Windows\]\[$39.95→0\] \| 2026-10-27](https://free.apprcn.com/easeus-partition-master-professional-36/)<br/>[‣ 限时免费获取字体 Scary Scream\[Windows、macOS\] \| 2026-10-27](https://free.apprcn.com/limited-time-get-scary-scream-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 终于解决了 Windows 出现「A字出现了问题，无法安装功能」的故障 \| 2026-10-28](https://www.appinn.com/ai-agent-fixes-windows-problems/)<br/>[‣ Strata 0.2.7.1 发布：12GB 及以下显存加速，RTX 3060 生成代码快了 37%｜支持 NVIDIA DGX Spark \| 2026-10-28](https://www.appinn.com/strata-0-2-7/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ 微信电脑版4.2.0.9多开消息防撤回绿色版 \| 2026-10-27](https://masuit.net/2030)<br/>[‣ 微软官方Windows外挂——PowerToys 0.102.3001官方简体中文版，免费给Windows加装各种增强新功能的效率利器 \| 2026-10-27](https://masuit.net/1854) | [订阅地址](https://masuit.com/rss) |
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ Browser Password Recovery Pro - 浏览器密码恢复工具\[Windows\]\[$19.95→0\] \| 2026-10-28](https://free.apprcn.com/browser-password-recovery-pro-5/)<br/>[‣ Coolmuster Data Recovery – 数据恢复还原软件\[1年授权\]\[Windows\]\[$49.95→0\] \| 2026-10-28](https://free.apprcn.com/coolmuster-data-recovery-18/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 416 期）：编程已经面目全非 \| 2026-10-23](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)<br/>[‣ 科技爱好者周刊（第 415 期）：3D 版《看不见的城市》 \| 2026-10-23](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
