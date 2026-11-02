@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-11-01 08:36:06)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-11-02 09:10:00)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-11-01 08:36:06 保质期24小时</h2>
+<h2>新蒸熟2个小蛋糕🍰(文章) 生产时间 2026-11-02 09:10:00 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p530' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 竹知了 · 一转就哇哇叫 | 在线增智慧 | 第1篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.appinn.com/faxian-top10-2644/' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 发现频道：10款大家发现的好评软件[2026年第44期] | 第1篇</a></div><div style='line-height:3;' ><a href='https://masuit.net/p532' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ YToo歪兔机场——老牌专线中转机场国际网络加速服务 | 第2篇</a></div>
 
 <邮件内容区结束
 
@@ -29,12 +29,12 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Presentify 8.2.1 屏幕添加注释 \| 2026-10-31](https://xclient.info/s/presentify.html)<br/>[‣ Rectangle Pro 3.96 窗口管理 \| 2026-10-31](https://xclient.info/s/rectangle-pro.html) | [订阅地址](https://xclient.info/feed) | 
+| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Vivid 2.19.1 屏幕亮度翻倍 \| 2026-11-01](https://xclient.info/s/vivid.html)<br/>[‣ VectorStyler 1.3.032 全功能无损矢量插画与参数化图形设计工作台 \| 2026-11-01](https://xclient.info/s/vectorstyler.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ Strata 0.2.9 发布：本地大模型 Prefill 最高提速 88%，还支持 1 比特 DeepSeek \| 2026-10-31](https://www.appinn.com/strata-0-2-9/)<br/>[‣ Ubuntu LXD 爆出满分 10.0 高危漏洞，无需密码即可接管虚拟机｜CVE-2026-112816 \| 2026-10-31](https://www.appinn.com/cve-2026-112816/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 发现频道：10款大家发现的好评软件\[2026年第44期\] 🌈 2026-11-02](https://www.appinn.com/faxian-top10-2644/)<br/>[‣ 不开玩笑，在安卓手机上安装 iOS 系统：小米 8、Pixel 6 已成功 🌈 2026-11-02](https://www.appinn.com/android-run-ios-xnu/) | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ 万兴PDF——Wondershare PDF element Pro 13.0.10学习版 \| 2026-10-30](https://masuit.net/1452)<br/>[‣ 微信电脑版4.2.0.12多开消息防撤回绿色版 \| 2026-10-30](https://masuit.net/2030) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取游戏 My Darkest Witch\[Windows\] \| 2026-10-31](https://free.apprcn.com/limited-time-get-game-my-darkest-witch-for-free-2/)<br/>[‣ 限时免费获取 Steam 游戏 Asleep – Act I\[Windows、macOS、Linux\]\[¥42→0\] \| 2026-10-31](https://free.apprcn.com/limited-time-get-steam-game-asleep-act-i-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取 Steam 游戏 Last Gambit\[Windows、macOS、Linux\] \| 2026-11-01](https://free.apprcn.com/limited-time-get-steam-game-last-gambit-for-free/)<br/>[‣ Vov Screen Recorder - 屏幕录像工具\[Windows\]\[$19→0\] \| 2026-11-01](https://free.apprcn.com/vov-screen-recorder-7/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 417 期）：不要让 AI 代表你 \| 2026-10-30](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)<br/>[‣ 科技爱好者周刊（第 416 期）：编程已经面目全非 \| 2026-10-30](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
