@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-11-12 10:38:49)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-11-13 10:19:08)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,9 +17,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-11-12 10:38:49 保质期24小时</h2>
+<h2>新蒸熟2个小蛋糕🍰(文章) 生产时间 2026-11-13 10:19:08 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p532' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ YToo歪兔机场——老牌专线中转机场国际网络加速服务 | 第1篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://masuit.net/p532' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ YToo歪兔机场——老牌专线中转机场国际网络加速服务 | 第1篇</a></div><div style='line-height:3;' ><a href='http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 科技爱好者周刊（第 419 期）：机房来了，写字楼走了 | 第2篇</a></div>
 
 <邮件内容区结束
 
@@ -29,15 +29,15 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Adobe Animate 2027.0.0 Adobe全新动画制作工具 \| 2026-11-11](https://xclient.info/s/adobe-animate-cc.html)<br/>[‣ Adobe Audition 2027.0.0 强大音频编辑工具 \| 2026-11-11](https://xclient.info/s/adobe-audition.html) | [订阅地址](https://xclient.info/feed) | 
+| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Camtasia 2027.0.0 强大且易用的视频录制和剪辑软件 \| 2026-11-12](https://xclient.info/s/camtasia.html)<br/>[‣ Shotbolt 1.2.5 支持图层无损编辑与OCR全文检索的一体化屏幕捕捉与录屏工具 \| 2026-11-12](https://xclient.info/s/shotbolt.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 11 款超轻量自托管工具，最低只占 5MB 内存｜OpenStick 新玩法 \| 2026-11-11](https://www.appinn.com/11-lightweight-self-hosted-apps-512mb-ram/)<br/>[‣ 苹果新应用 Harbor 曝光：插线连接多台 Mac，一起运行本地大模型 \| 2026-11-11](https://www.appinn.com/apple-harbor-mac-ai-cluster/) | [订阅地址](https://www.appinn.com/feed/) | 
-| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ VisualStudio神级插件——JetBrains dotUltimate Resharper2026.3学习版 \| 2026-11-10](https://masuit.net/20)<br/>[‣ YToo歪兔机场——老牌专线中转机场国际网络加速服务 \| 2026-11-10](https://masuit.net/p532) | [订阅地址](https://masuit.com/rss) |
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 网云连：把分散的设备连成一个家 \| 2026-11-12](https://www.appinn.com/wangyunlian/)<br/>[‣ Chrome 曝出高危 0day 漏洞：已遭黑客实际利用，Google 紧急发布更新｜CVE-2026-125350 \| 2026-11-12](https://www.appinn.com/chrome-cve-2026-125350-zero-day-exploit/) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [‣ 人工智能图片无损放大软件Topaz AI Gigapixel Pro 1.5_x64学习版(Windows+MacOS) \| 2026-11-11](https://masuit.net/1576)<br/>[‣ PDF-XChangeEditorPlus 11.1.2简体中文学习版 \| 2026-11-11](https://masuit.net/1484) | [订阅地址](https://masuit.com/rss) |
 | <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ AlbumX - 照片清理、相册整理与幻灯片\[iOS\]\[内购限免\] \| 2026-11-05](https://free.apprcn.com/albumx/)<br/>[‣ Bitwar Cleaner - 系统优化、清理工具\[Windows\]\[$29→0\] \| 2026-11-05](https://free.apprcn.com/bitwar-cleaner-2/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
-| <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初 \| 2026-11-05](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)<br/>[‣ 科技爱好者周刊（第 417 期）：不要让 AI 代表你 \| 2026-11-05](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
+| <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 419 期）：机房来了，写字楼走了 🌈 2026-11-13](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)<br/>[‣ 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初 🌈 2026-11-13](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
 | <div id="B002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B002.png" width="30px" style="width:30px;height: auto;"/><br><span>B002</span></div> | 当我在扯淡 | 王垠的博客，观点奇妙有趣 |  [‣ 从 wordpress 转移到 substack \| 2022-11-20](https://yinwang1.wordpress.com/2022/11/20/%e4%bb%8e-wordpress-%e8%bd%ac%e7%a7%bb%e5%88%b0-substack/)<br/>[‣ 计算机科学进阶班招生 \| 2022-11-20](https://yinwang1.wordpress.com/2022/02/22/advanced-cs-course/) | [订阅地址](https://yinwang1.wordpress.com/feed/) |
 
 ## 批量导入所有RSS订阅
