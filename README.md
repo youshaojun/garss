@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-11-17 12:16:38)
+# Github Actions Rss (garss, 嘎RSS! 已收集10个RSS源, 生成时间: 2026-11-18 11:15:44)
 
 信息茧房是指人们关注的信息领域会习惯性地被自己的兴趣所引导，从而将自己的生活桎梏于像蚕茧一般的「茧房」中的现象。
 
@@ -17,7 +17,7 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-11-17 12:16:38 保质期24小时</h2>
+<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2026-11-18 11:15:44 保质期24小时</h2>
 
 
 
@@ -29,12 +29,12 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ WebScraper 4.15.9 网页数据的爬取 \| 2026-11-16](https://xclient.info/s/webscraper.html)<br/>[‣ VectorStyler 1.3.034 全功能无损矢量插画与参数化图形设计工作台 \| 2026-11-16](https://xclient.info/s/vectorstyler.html) | [订阅地址](https://xclient.info/feed) | 
+| <div id="S002" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Adobe Premiere Pro 2027 v27.0.0 领先的视频编辑应用 \| 2026-11-17](https://xclient.info/s/adobe-premiere.html)<br/>[‣ Adobe Photoshop 2027 v28.0.0 图片处理工具 \| 2026-11-17](https://xclient.info/s/adobe-photoshop.html) | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | <div id="S004" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S004.png" width="30px" style="width:30px;height: auto;"/><br><span>S004</span></div> | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ 发现频道：10款大家发现的好评软件\[2026年第46期\] \| 2026-11-16](https://www.appinn.com/faxian-top10-2646/)<br/>[‣ 【开发者自荐】UniReader:一个书库读 MOBI、AZW3、EPUB、PDF、TXT,TXT 不乱码,支持简繁转换和竖排 \| 2026-11-16](https://meta.appinn.net/t/topic/96012) | [订阅地址](https://www.appinn.com/feed/) | 
+| <div id="S005" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S005.png" width="30px" style="width:30px;height: auto;"/><br><span>S005</span></div> | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ ALTRun – 不到 1 MB，接替老牌同名开源启动器，支持拼音首字母、Everything 搜索、Listary 模式、剪贴板历史等 \| 2026-11-17](https://www.appinn.com/altrun-ahk/)<br/>[‣ Cutefish – 30万行代码，让 Linux 运行 Mac 应用 \| 2026-11-17](https://www.appinn.com/cutefish/) | [订阅地址](https://www.appinn.com/feed/) | 
 | <div id="S006" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S006.png" width="30px" style="width:30px;height: auto;"/><br><span>S006</span></div> | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://masuit.com) | [订阅地址](https://masuit.com/rss) |
-| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ AlbumX - 照片清理、相册整理与幻灯片\[iOS\]\[内购限免\] \| 2026-11-05](https://free.apprcn.com/albumx/)<br/>[‣ Bitwar Cleaner - 系统优化、清理工具\[Windows\]\[$29→0\] \| 2026-11-05](https://free.apprcn.com/bitwar-cleaner-2/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| <div id="S007" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S007.png" width="30px" style="width:30px;height: auto;"/><br><span>S007</span></div> | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ Coolmuster ePub Converter – ePub 电子书转换工具\[1年授权\]\[Windows\]\[$35.95→0\] \| 2026-11-17](https://free.apprcn.com/coolmuster-epub-converter-18/)<br/>[‣ Imagelys Picture Lab - Imagelys 照片效果滤镜\[Windows\]\[$9→0\] \| 2026-11-17](https://free.apprcn.com/imagelys-picture-lab-3/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | <div id="B001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/B001.png" width="30px" style="width:30px;height: auto;"/><br><span>B001</span></div> |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 419 期）：机房来了，写字楼走了 \| 2026-11-13](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)<br/>[‣ 科技爱好者周刊（第 418 期）：如果科技停止在21世纪初 \| 2026-11-13](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
